@@ -1,0 +1,190 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ni WooCommerce Multi Currency Report\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-27 10:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.2; wp-5.5"
+
+#: includes/niwoomcr-order-report.php:198
+msgid "#ID"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:51
+#: includes/niwoomcr-order-report.php:38
+msgid "--Select Currency--"
+msgstr ""
+
+#. Author of the plugin
+msgid "anzia"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:291
+#: includes/niwoomcr-order-report.php:209
+msgid "Cart Discount"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:292
+#: includes/niwoomcr-order-report.php:210
+msgid "Cart Discount Tax"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:288
+#: includes/niwoomcr-order-report.php:205
+msgid "Country"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:281
+#: includes/niwoomcr-order-report.php:207
+msgid "Currency"
+msgstr ""
+
+#: includes/niwoomcr-core.php:59 includes/niwoomcr-core.php:60
+#: includes/niwoomcr-core.php:83 includes/niwoomcr-core.php:84
+msgid "Currency Report"
+msgstr ""
+
+#: includes/niwoomcr-core.php:68 includes/niwoomcr-core.php:69
+msgid "Dashboard"
+msgstr ""
+
+#: includes/niwoomcr-order-report.php:199
+msgid "Date"
+msgstr ""
+
+#: includes/niwoomcr-order-report.php:201
+msgid "Email"
+msgstr ""
+
+#: includes/niwoomcr-order-report.php:200
+msgid "First Name"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:36
+msgid "Group by"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://naziinfotech.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/ni-woocommerce-multi-currency-report/"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:29
+#: includes/niwoomcr-order-report.php:28
+msgid "Last 10 days"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:30
+#: includes/niwoomcr-order-report.php:29
+msgid "Last 30 days"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:31
+#: includes/niwoomcr-order-report.php:30
+msgid "Last 60 days"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:28
+#: includes/niwoomcr-order-report.php:27
+msgid "Last 7 days"
+msgstr ""
+
+#: includes/niwoomcr-dashboard.php:91
+msgid "Last Orders Received"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ni WooCommerce Multi Currency Report"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Ni WooCommerce Multi Currency Report provide the sales report base on "
+"product sold currency"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:48
+#: includes/niwoomcr-order-report.php:35
+msgid "Order Currency"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:23
+#: includes/niwoomcr-order-report.php:22
+msgid "Order Period"
+msgstr ""
+
+#: includes/niwoomcr-core.php:76 includes/niwoomcr-core.php:77
+msgid "Order Report"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:293
+#: includes/niwoomcr-order-report.php:211
+msgid "Order Shipping"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:294
+#: includes/niwoomcr-order-report.php:212
+msgid "Order Shipping Tax"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:295
+#: includes/niwoomcr-order-report.php:213
+msgid "Order Tax"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:296
+#: includes/niwoomcr-order-report.php:214
+msgid "Order Total"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:285
+#: includes/niwoomcr-order-report.php:204
+msgid "Payment Method"
+msgstr ""
+
+#: includes/niwoomcr-order-report.php:16
+msgid "Search Order Report"
+msgstr ""
+
+#: includes/niwoomcr-order-report.php:202
+msgid "Status"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:32
+#: includes/niwoomcr-order-report.php:31
+msgid "This year"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:26
+#: includes/niwoomcr-order-report.php:25
+msgid "Today"
+msgstr ""
+
+#: includes/niwoomcr-dashboard.php:133
+msgid "Today GUEST Customer"
+msgstr ""
+
+#: includes/niwoomcr-dashboard.php:105
+msgid "Today Orders Received"
+msgstr ""
+
+#: includes/niwoomcr-dashboard.php:119
+msgid "Today registered Customer"
+msgstr ""
+
+#: includes/niwoomcr-currency-report.php:27
+#: includes/niwoomcr-order-report.php:26
+msgid "Yesterday"
+msgstr ""
